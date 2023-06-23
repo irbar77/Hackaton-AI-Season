@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #533561;
+    height: 100vh;
+    font-family: 'Geologica', sans-serif;
+    color: white;
+}
+
+
+.row{
+    width: 100%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    height: 100%;
+    padding-top: 110px;
+}
+
+.col-1{
+    width: 55%;
+   padding-left: 80px;   
+}
+
+.col-2{
+    width: 45%;
+}
+
+.mr-100{
+margin-right: 100px;
+text-align: justify;
+margin-top: 10px;
+}
+
+
+.form{
+    background-color: #fff;
+    padding: 50px;
+    border-radius: 10px;
+    color: black;
+    width: 70%;
+    margin-top: 50px;
+}
+
+.team{
+    margin-top: 50px;
+    width: 80%;
+}
+.team-members{
+    padding-top: 70px;
+    display: flex;
+}
+
+.team-member{
+    background-color: #e3e3e3;
+    border: 1px solid white;
+    text-align: center;
+    margin: 10px;
+    color: rgb(89, 89, 89);
+    font-weight: 200;
+    padding: 10px;
+    border-radius: 20px;
+    height: 150px;
+    width: 220px;
+}
+
+.team-member-photo{
+height: 100px;
+width: 100px;
+border-radius: 50%;
+margin: 20px;
+margin-top: -60px;
+}
+
+h4 {
+text-decoration: underline;
+}
+ul{
+    margin: 0;
+    margin-top: 30px;
+    padding: 0;
+}
+ li{
+    
+    display: inline;
+    padding: 10px;
+    margin: 05px;
+    margin-left: 0;
+    background-color: #e3e3e3;
+    color: #343434;
+    border-radius: 5px;
+}
+
+.stack{
+    margin-top: 40px;
+}
